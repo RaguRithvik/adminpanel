@@ -1,0 +1,38 @@
+.bg-info {
+    background-color: #4099ff !important;
+    border-color: #4099ff;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.dimension-image {
+    font-size: 14px;
+    line-height: 3 !important;
+    color: #ff0000;
+    margin: 0;
+    font-family: 'Bree Serif', serif;
+}
+
+.fee-bold {
+    font-weight: normal;
+    font-family: 'Bree Serif', serif;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+.fee-bold span,
+.col-form-label span {
+    color: red;
+}
+
+table.dataTable thead th {
+    font-weight: bold;
+    font-family: 'quicksand', sans-serif;
+    color: #000;
+    font-size: 15px !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+label.checkbox-inline input:hover{
+  cursor: pointer
+}
